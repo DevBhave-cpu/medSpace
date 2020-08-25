@@ -1,0 +1,9 @@
+Problems And Bugs
+
+1. Hospitals API ->
+a) deleteById is not working
+b) findById is also not working
+
+1. Patients API ->
+a) deleteById is not working
+b) findById is also not working
